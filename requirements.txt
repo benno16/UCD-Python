@@ -1,5 +1,4 @@
 flask
 cherrypy
-virutalenv
 Flask-JSONRPC
 jsonpickle
